@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&display=swap");
 
 .dark-mode {
-  background-color: black;
+  background-color: rgba(45 , 45, 45 );
   color: white;
   }
 
@@ -146,7 +146,7 @@ header .logo {
   font-size: 2.5rem;
   font-weight: 800;
   text-decoration: none;
-  color: #0e2431;
+  color: #7F27FF;
 }
 
 header .logo i {
@@ -176,7 +176,7 @@ header .navbar ul li a {
   text-decoration: none;
   letter-spacing: 0.04rem;
   transition: 0.2s;
-  color: black;
+  color: #7F27FF;
 }
 
 header .navbar ul li a:hover {
@@ -288,13 +288,13 @@ header .navbar ul li a:hover {
 .home .content h2 {
   font-size: 6rem;
   font-weight: 800;
-  color: #1a1a1a;
+  /* color: #1a1a1a; */
 }
 
 .home .content p {
   font-family: "Poppins", sans-serif;
   font-size: 2.5rem;
-  color: #000;
+  /* color: #000; */
   font-weight: 600;
   padding: 1rem 0;
 }
@@ -464,13 +464,13 @@ header .navbar ul li a:hover {
 }
 
 .about .row .content h3 {
-  color: rgb(27, 27, 27);
+  /* color: rgb(27, 27, 27); */
   font-size: 2.5rem;
 }
 
 .about .row .content .tag {
   font-size: 1.4rem;
-  color: #020133;
+  /* color: #020133; */
   font-weight: 600;
   margin-top: 1rem;
 }
@@ -496,7 +496,7 @@ header .navbar ul li a:hover {
 }
 
 .about .row .content .box-container .box p span {
-  color: #011aff;
+  color: #7F27FF;
 }
 
 .resumebtn {
@@ -508,7 +508,7 @@ header .navbar ul li a:hover {
   border-radius: 0.5em;
   transition: 0.3s;
   color: #fff;
-  background: #2506ad;
+  background: #7F27FF;
   box-shadow: 0px 5px 10px rgba(48, 68, 247, 0.6);
   font-family: "Nunito", sans-serif;
 }
@@ -625,7 +625,7 @@ header .navbar ul li a:hover {
 
 .education .box-container .box .content h3 {
   font-size: 2.5rem;
-  color: #012970;
+  color: #7F27FF;
   padding: 0.5rem 0;
   font-weight: 600;
   text-align: left;
@@ -686,7 +686,7 @@ header .navbar ul li a:hover {
 /* work section starts */
 
 .work h2 {
-  color: black;
+  
   padding: 1rem;
 }
 
@@ -1144,7 +1144,7 @@ form .button-area {
   cursor: pointer;
   border-radius: 5px;
   padding: 13px 25px;
-  background: #2506ad;
+  background: #7F27FF;
   box-shadow: 0px 5px 10px rgba(48, 68, 247, 0.6);
   transition: 0.3s ease;
   font-family: "Nunito", sans-serif;
@@ -1220,14 +1220,12 @@ form .button-area {
 
 .footer .box-container .box h3 {
   font-size: 2.5rem;
-  color: black;
   padding-bottom: 1rem;
   font-weight: normal;
 }
 
 .footer .box-container .box p {
   font-size: 1.5rem;
-  color: black;
   padding: 0.7rem 0;
   text-transform: none;
 }
@@ -1239,9 +1237,9 @@ form .button-area {
 
 .footer .box-container .box a {
   font-size: 1.5rem;
-  color: black;
   padding: 0.3rem 0;
   display: block;
+  color: #7F27FF;
 }
 
 .footer .box-container .box a:hover {
@@ -1281,7 +1279,7 @@ form .button-area {
   font-size: 1.5rem;
   font-family: "Nunito", sans-serif;
   font-weight: 600;
-  color: black;
+  /* color: black; */
   border-top: 0.1rem solid #fff3;
 }
 
